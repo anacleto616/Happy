@@ -32,7 +32,7 @@ carentes, alegrando o dia delas com brincadeiras, presentes, atenção etc. Fiz 
 
 # ⚙️ Como executar o projeto
 > Clonar o repositório: 
-**git clone https://github.com/anacleto616/Happy.git**
+**git clone https://github.com/anacleto616/happy.git**
 
 > Entrar no diretório do projeto: 
 **cd 'nome_do_diretório'**
