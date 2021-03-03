@@ -37,6 +37,9 @@ carentes, alegrando o dia delas com brincadeiras, presentes, atenção etc. Fiz 
 > Entrar no diretório do projeto: 
 **cd 'nome_do_diretório'**
 
+> Instalar as dependências do projeto:
+**npm i**
+
 > Executar o servidor: 
 **npm run start**
 
