@@ -3,24 +3,26 @@ Desenvolvido na [Next Level Week 3](https://nextlevelweek.com/), evento promovid
 dia das crianças. Aplicação cujo propósito é conectar pessoas a lares de acolhimento, antigamente chamados de orfanato, e assim proporcionando a possibilidade de visitas a crianças 
 carentes, alegrando o dia delas com brincadeiras, presentes, atenção etc. Fiz a trilha Discovery, tendo como instrutor [Mayk Brito](https://www.youtube.com/user/maykbrito).
 
+## 🖥️ Layout - HOME
+
 ![](/public/images/landing-page.png)
 
-# 🛰️ Tecnologias utilizadas
+## 🛰️ Tecnologias utilizadas
 
-## Front end
+### Front end
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
 - [Javascript](https://www.javascript.com/)
 - [Handlebars](https://handlebarsjs.com/)
 - [Leaflet](https://leafletjs.com/)
 
-## Back end
+### Back end
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [Nodemon](https://nodemon.io/)
 - [SQLite](https://www.sqlite.org/index.html)
 
-# 💡 Aprendizado
+## 💡 Aprendizado
 - Padrão de organização de arquivos
 - Padrão de organização das estruturas de HTML/CSS/JS
 - Reforço da utilização de tags HTML
@@ -30,7 +32,7 @@ carentes, alegrando o dia delas com brincadeiras, presentes, atenção etc. Fiz 
 - Criar um servidor com Node.js
 - Criar e popular um banco de dados com Node.js
 
-# ⚙️ Como executar o projeto
+## ⚙️ Como executar o projeto
 > Clonar o repositório: 
 **git clone https://github.com/anacleto616/happy.git**
 
