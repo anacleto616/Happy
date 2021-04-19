@@ -3,10 +3,6 @@ Desenvolvido na [Next Level Week 3](https://nextlevelweek.com/), evento promovid
 dia das crianças. Aplicação cujo propósito é conectar pessoas a lares de acolhimento, antigamente chamados de orfanato, e assim proporcionando a possibilidade de visitas a crianças 
 carentes, alegrando o dia delas com brincadeiras, presentes, atenção etc. Fiz a trilha Discovery, tendo como instrutor [Mayk Brito](https://www.youtube.com/user/maykbrito).
 
-## 🖥️ Layout - HOME
-
-![](/public/images/landing-page.png)
-
 ## 🛰️ Tecnologias utilizadas
 
 ### Front end
@@ -31,6 +27,10 @@ carentes, alegrando o dia delas com brincadeiras, presentes, atenção etc. Fiz 
 - Utilizar mapas com JS
 - Criar um servidor com Node.js
 - Criar e popular um banco de dados com Node.js
+
+## 🖥️ Layout - HOME
+
+![](/public/images/landing-page.png)
 
 ## ⚙️ Como executar o projeto
 > Clonar o repositório: 
