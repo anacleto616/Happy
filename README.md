@@ -1,7 +1,7 @@
 # 😄 Happy
 Desenvolvido na [Next Level Week 3](https://nextlevelweek.com/), evento promovido pela [Rocketseat](https://rocketseat.com.br/) entre os dias 12 a 18 de outubro de 2020, em homenagem ao 
 dia das crianças. Aplicação cujo propósito é conectar pessoas a lares de acolhimento, antigamente chamados de orfanato, e assim proporcionando a possibilidade de visitas a crianças 
-carentes, alegrando o dia delas com brincadeiras, presentes, atenção etc. Fiz a trilha Discovery, tendo como instrutor [Mayk Brito](https://www.youtube.com/user/maykbrito).
+carentes, alegrando o dia delas com brincadeiras, presentes, atenção etc.
 
 ## 🛰️ Tecnologias utilizadas
 
